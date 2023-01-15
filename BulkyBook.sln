@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBookWeb", "BulkyBookWeb\BulkyBookWeb.csproj", "{6755A9F1-CB5C-4FBB-AB35-6D8D48D7B584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBookWeb", "BulkyBookWeb\BulkyBookWeb.csproj", "{6755A9F1-CB5C-4FBB-AB35-6D8D48D7B584}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBookWeb.Infrastructure", "BulkyBookWeb.Infrastructure\BulkyBookWeb.Infrastructure.csproj", "{204A1056-5EA4-46F4-BF2E-1D3F95D13F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBookWeb.Entities", "BulkyBookWeb.Entities\BulkyBookWeb.Entities.csproj", "{F30E6ED1-9ECB-4C49-9E57-D6F620D23053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6755A9F1-CB5C-4FBB-AB35-6D8D48D7B584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6755A9F1-CB5C-4FBB-AB35-6D8D48D7B584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6755A9F1-CB5C-4FBB-AB35-6D8D48D7B584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204A1056-5EA4-46F4-BF2E-1D3F95D13F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204A1056-5EA4-46F4-BF2E-1D3F95D13F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204A1056-5EA4-46F4-BF2E-1D3F95D13F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204A1056-5EA4-46F4-BF2E-1D3F95D13F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30E6ED1-9ECB-4C49-9E57-D6F620D23053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30E6ED1-9ECB-4C49-9E57-D6F620D23053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30E6ED1-9ECB-4C49-9E57-D6F620D23053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30E6ED1-9ECB-4C49-9E57-D6F620D23053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

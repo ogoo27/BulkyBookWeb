@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\bin\Debug\net6.0\BulkyBookWeb.Entities.deps.json
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\bin\Debug\net6.0\BulkyBookWeb.Entities.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\bin\Debug\net6.0\BulkyBookWeb.Entities.pdb
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.AssemblyInfo.cs
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\refint\BulkyBookWeb.Entities.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\BulkyBookWeb.Entities.pdb
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Entities\obj\Debug\net6.0\ref\BulkyBookWeb.Entities.dll

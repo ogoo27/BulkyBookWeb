@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\bin\Debug\net6.0\BulkyBookWeb.Infrastructure.deps.json
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\bin\Debug\net6.0\BulkyBookWeb.Infrastructure.runtimeconfig.json
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\bin\Debug\net6.0\BulkyBookWeb.Infrastructure.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\bin\Debug\net6.0\BulkyBookWeb.Infrastructure.pdb
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\bin\Debug\net6.0\BulkyBookWeb.Entities.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\bin\Debug\net6.0\BulkyBookWeb.Entities.pdb
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.csproj.CopyComplete
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\refint\BulkyBookWeb.Infrastructure.dll
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.pdb
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\BulkyBookWeb.Infrastructure.genruntimeconfig.cache
+C:\Users\hp\source\repos\BulkyBook\BulkyBookWeb.Infrastructure\obj\Debug\net6.0\ref\BulkyBookWeb.Infrastructure.dll
